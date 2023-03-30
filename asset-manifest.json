@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reduxformCRUD/static/css/main.7ce23ed1.css",
+    "main.js": "/reduxformCRUD/static/js/main.6ecf75e4.js",
+    "static/js/787.b755f208.chunk.js": "/reduxformCRUD/static/js/787.b755f208.chunk.js",
+    "static/media/logo.svg": "/reduxformCRUD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reduxformCRUD/index.html",
+    "main.7ce23ed1.css.map": "/reduxformCRUD/static/css/main.7ce23ed1.css.map",
+    "main.6ecf75e4.js.map": "/reduxformCRUD/static/js/main.6ecf75e4.js.map",
+    "787.b755f208.chunk.js.map": "/reduxformCRUD/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce23ed1.css",
+    "static/js/main.6ecf75e4.js"
+  ]
+}
