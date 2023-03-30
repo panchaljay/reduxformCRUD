@@ -1,0 +1,15 @@
+button{
+  background-color: #007bff;
+  color: #fff;
+  height: 40px;
+  margin-top: 15px;
+  margin-left: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  font-size: large;
+
+}
+#btn{
+  background-color: #dc3545
+
+}
